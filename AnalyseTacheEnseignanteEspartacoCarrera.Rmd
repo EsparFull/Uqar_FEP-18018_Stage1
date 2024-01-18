@@ -1,0 +1,21 @@
+---
+title: "Analyse tâche enseignante"
+# author: "Espartaco Carrera"
+# date: "2024-01-18"
+output: word_document
+---
+# Introduction
+
+# Composition de la tâche éducative
+
+## Temps d'enseignement et ATP
+
+## Comparaison entre ma tâche et celle de mes collègues (intrasecteur)
+
+## Comparaison entre ma tâche et celle de mes collègues (intersecteur)
+
+## Contexte particulier
+
+## Rôle à l'intérieur du contexte de formation
+
+## Réflexion
