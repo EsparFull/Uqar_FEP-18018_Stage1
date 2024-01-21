@@ -2,20 +2,46 @@
 title: "Analyse tâche enseignante"
 # author: "Espartaco Carrera"
 # date: "2024-01-18"
-output: word_document
+bibliography: UqarFEP18018.bib
+csl: universite-du-quebec-a-montreal.csl
+link-citations: true
+output:
+  word_document:
+    reference_docx: Uqar.dotx
+
+
 ---
 # Introduction
 
-# Composition de la tâche éducative
+Dans ce travail je définirai, dans un premier temps, ma tâche enseignante. Ensuite, je la comparerai avec celle de mes collègues intra et interdépartementaux dans mon centre de formation professionnelle. Par la suite, j'évoquerai une singularité de l'enseignement en arpentage et topographie: l'enseignement hors des locaux scolaires. Enfin, je définirai mon rôle dans le plan de formation. Pour conclure, j'énoncerai ce qu'est la mission de l'enseignant.
 
-## Temps d'enseignement et ATP
+# Description de la tâche éducative
 
-## Comparaison entre ma tâche et celle de mes collègues (intrasecteur)
+Ma tâche annuelle à l'École-des-metiers-du-Sud-Ouest-de-Montréal, comprend 720 heures de tâche éducative et 560 heures d'autres tâches professionnelles, comme il est prévu dans l'Entente nationale 2015-2020 [@federationautonomedelenseignementGuideApplicationNouvelles2022, 2-3].
 
-## Comparaison entre ma tâche et celle de mes collègues (intersecteur)
+## Ressemblances et différences entre ma tâche et celle de mes collègues de département
 
-## Contexte particulier
+Ma tâche est similaire à celle de la plupart de mes collègues. En effet, sur onze enseignants, dont deux contractuels engagés récemment, nous sommes six enseignants permanents et cinq à contrat ou à taux horaire. Le plus grand nombre des permanents et des contractuels ont une tâche à 100%. Cependant, deux de mes collègues, soit parce qu’ils sont proches de l’âge de la retraite, soit pour des raisons personnelles, ont demandé des tâches à 70 ou 80%. J’ai aussi deux autres collègues qui participent à des comités (CPEPE, comité d’embellissement de l’école).
 
-## Rôle à l'intérieur du contexte de formation
+## Comparaison entre ma tâche et celle de mes collègues (interdépartementaux)
 
-## Réflexion
+Si je compare ma tâche avec celle de mes collègues des départements de Dessin de bâtiment et de Dessin industriel avec lesquels nous partageons la salle des professeurs, je constate qu'elle est quasiment identique. La seule différence remarquable est celle-ci: pendant nos examens sur le terrain au département d'arpentage et topographie, nous sommes accompagnés par un autre enseignant. Cette singularité s'explique aisément par le fait que nos élèves sont dispersés sur une grande distance. Il est donc difficile pour une seule personne de surveiller ou d'aider les élèves. Dans nos horaires nous avons un code particulier pour définir ce statut d'_accompagnateur_.
+
+## Contextes particuliers d'enseignement
+
+La particularité du programme en arpentage est que bon nombre d'heures d'enseignement se déroulent à l'extérieur des locaux de l'école. Cependant, cela n'a aucune incidence sur l'organisation de la tâche. Par ailleurs, le module 23 s'enseigne à l'Île-Sainte-Hélène, pour s'y rendre avec les instruments d'arpentage de tous les élèves, l'enseignant prend une camionnette louée par l'école. Toutefois, comme dans le cas précédent, cela ne change en rien la tâche de l'enseignant qui donne ce cours. 
+
+## Mon rôle à l'intérieur du contexte de formation
+
+Dans le département d'arpentage, le rôle pédagogique de chaque enseignant est déterminé par ses forces, ses affinités et son expérience professionnelle. Certains enseignants ont plus de compétence, d'habileté et de plaisir  avec les aspects liés à l'arpentage de construction et d'autres avec les aspects légaux et cadastraux de l'arpentage. Chaque année, notre direction adjointe nous demande la liste des modules que l'on voudrait enseigner et celle de ceux qu'on préférerait éviter.
+Pour ma part, j'aime beaucoup enseigner les modules de calcul (trigonométrie, calcul de coordonnées géographiques, etc.) et les modules où les logiciels ont une place importante (informatique, implantation d'une route, infrastructures souterraines). De plus, comme mon expérience professionnelle s'est quasi exclusivement déroulée sur le terrain, j'aime beaucoup enseigner les modules où on fait beaucoup de travaux pratiques à l'extérieur. 
+
+## Ma mission d'enseignant
+
+Ma pratique du métier d'enseignant épouse en tout point les devoirs énoncés dans la Loi sur l'instruction publique (art. 22) [@ANQ]. En effet, je suis persuadé que ma mission d'enseignant est de participer à la formation de citoyens à l'esprit critique et non seulement à produire des techniciens en arpentage pour satisfaire les besoins du marché du travail. Pour atteindre ce but, je m'évertue à inculquer chez les élèves le plaisir d'apprendre, dans un esprit de justice, d'impartialité et d'équité. Il m'apparait aussi évident que la mission sociale de l'éducation au progrès et la pérennisation de nos institutions et de nos valeurs communes est primordiale. Donc, je m'efforce pour que les nouveaux enseignants soient bien accompagnés et encadrés.
+
+# Conclusion
+
+Ce premier travail de stage m'a permis de réfléchir sur ma tâche enseignante. Pour y parvenir, je l'ai confronté à celle de mes collègues dans le centre de formation professionnelle. J'ai aussi montré que la singularité de l'enseignement en arpentage (l'enseignement hors des murs de l'école) n'a aucun effet sur la nature de la tâche éducative. Après, j'ai expliqué comment mon rôle d'enseignant en arpentage dans le plan de formation était déterminé par mon expérience professionnelle antérieure et par mes goûts et forces intellectuels. J'ai conclu cette réflexion en définissant ce qu'était à mon avis la mission de l'enseignant et son rôle social.
+
+# Bibliographie
