@@ -1,0 +1,47 @@
+---
+title: "Activite3 Tâches 1 à 4"
+# author: "Espartaco Carrera"
+# date: "11/03/2024"
+bibliography: UqarFEP18018.bib
+csl: universite-du-quebec-a-montreal.csl
+link-citations: true
+output:
+  word_document:
+    reference_docx: Uqar.dotx
+---
+
+# Tâche 1
+
+
+# Tâche 2
+
+## Identification du programme et de la compétence
+
+Le programme enseigné est celui d'arpentage et topographie (no. 5238). Il a été établit en 2001.
+La compétence enseignée durant ce stage est la compétence 4: Mesurer des angles, des distances et d'élévations.
+Des liens fonctionnels de cette compétence se retrouvent dans les compétences suivantes [les numéros entre parenthèses représentent le numéro du module]:
+
+```{r numberlist, results='asis', echo = FALSE}
+maListe <- c("Effectuer le lever d'un terrain plat et faire sa mise en plan (6)", "Déterminer des altitudes (10)", "Implanter une route et dessiner son plan (16)", "Implanter des infrastructures souterraines (17)", "Estimer des quantités de matériaux (18)", "Lever d'un bien-fonds et dessiner le plan du certificat de localisation (21)", "Piqueter un terrain et implanter une bâtisse (22)", "Effectuer des travaux d'implantation en terrain difficile (23)")
+cat(paste("1.", maListe), sep = "\n")
+```
+
+Le contenu spécifique est de mesurer des angles et des distances en double retournement.
+
+Le contenu spécifique se situe dans la phase d'intégration-entrainement où l'étudiant applique les apprentissages de base, intègre ses ressources antérieures dans des situations réelles où il est également amené à auto-évaluer son travail [@gagnon2016, 111].
+
+## Type de savoir
+
+Pour mesurer des angles et des distances en double retournement, il faut intégrer des savoirs théoriques (savoir / connaissance) comme les valeurs respectives de l'angle vertical en face droite et face gauche; il faut exécuter une séries de gestes précis (savoir-faire) pour obtenir une série d'observations en lunette droite et en lunette renversée; il faut exercer son raisonnement et son jugement (savoir être) pour valider la qualité des résultats obtenus.
+
+## Importance du contenu dans la formation et dans la pratique du métier
+
+Apprendre à faire des observations en lunette droite et en lunette renversée est primordial dans la carrière d'un technicien en arpentage et durant sa formation. En effet cette technique est celle que l'on emploie pour faire un cheminement polygonal, car elle produit des données redondantes (donc analysables d'un point de vu statistique) tout en compensant les défauts mécaniques inhérents à toute station totale. 
+Le polygone obtenu, une fois que l'on a fait des séries d'observations à partir de chacun de ses sommets, deviendra, quand il aura été balancé, le cadre mathématiquement parfait de tous travaux futurs d'arpentage.
+
+## Croyances des élèves
+
+
+
+
+##### Références
